@@ -13,7 +13,7 @@ Dataset was taken from Kaggle: https://www.kaggle.com/
 - Cross validation was used with every model to tune paramters of model, some parameters were tuned in a greedy way to manage computational costs and some were tuned in an optimal way simultaneously
 - Both regression and classification models were implemented 
 
-Models used: 
+**Models used:** 
 - Simple linear regression
 - KNN
 - Decision Tree
